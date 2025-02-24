@@ -15,9 +15,6 @@ Play Store: [Link](https://play.google.com/store/apps/details?id=com.jlindemann.
 ## Example for Hydrogen:
 [
   {
-    "wikilink": "https://en.wikipedia.org/wiki/Hydrogen",
-    "description": "Hydrogen is the chemical element with the symbol H and atomic number 1. With a standard atomic weight of 1.008, hydrogen is the lightest element in the periodic table. Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all baryonic mass. Non-remnant stars are mainly composed of hydrogen in the plasma state. The most common isotope of hydrogen, termed protium (name rarely used, symbol 1H), has one proton and no neutrons.",
-
     "element": "Hydrogen",
     "short": "H",
     "element_year": "1766",
@@ -129,7 +126,5 @@ Play Store: [Link](https://play.google.com/store/apps/details?id=com.jlindemann.
     "element_electrical_conductivity": "N/A",
     "element_magnetic_type": "Diamagnetic",
     "element_volume_magnetic_susceptibility": "-2.23*10^9",
-    "spectral_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hydrogen_spectrum_visible.png/1920px-Hydrogen_spectrum_visible.png",
-    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hydrogen_discharge_tube.jpg/1920px-Hydrogen_discharge_tube.jpg"
   }
 ]
